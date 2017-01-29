@@ -89,6 +89,6 @@ div div {background: #A4CA39; position: relative;}
 }
 .r_arm:hover{
 	-webkit-transform: rotate(-30deg) translate(30px, 0);
-	-transform: rotate(-30deg) translate(30px, 0);
+	-transform: rotate(-35deg) translate(35px, 0); //changed from 30 degrees and px to 35
 	-moz-transform: rotate(-30deg) translate(30px, 0);
 }
